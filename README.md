@@ -19,3 +19,4 @@
 
 4、熟悉常用数据结构与算法；
 5、熟练使用git：https://cloud.tencent.com/developer/article/1910779
+https://cloud.tencent.com/developer/article/1355205?from=article.detail.1910779
